@@ -1,3 +1,9 @@
+# Build output directories
+out/
+target/
+build/
+
+# IntelliJ specific files
 .idea/
 *.iws
 *.iml
